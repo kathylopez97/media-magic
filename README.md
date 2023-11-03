@@ -21,10 +21,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-## Usage
+## Usage       ![Alt text](<![alt text](assets:images:screenshot.png>)>
 
-![alt text](assets/images/screenshot.png)
-``
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
