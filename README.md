@@ -8,7 +8,7 @@
 - The problem it solves is changing the starter codes to sementic elements in CSS.
 - I learned new coding terms, how to style in CSS, and learning new selectors.
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
