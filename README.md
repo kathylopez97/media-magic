@@ -13,7 +13,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 
 ## Installation
 VS Code
@@ -21,12 +20,5 @@ VS Code
 ![media](media-magic.png)
 ## Credits
 https://www.youtube.com
-## License
-
-MIT License
----
-
-MIT License 
-
 ## Features
 CSS
