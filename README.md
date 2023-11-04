@@ -1,6 +1,6 @@
 # media-magic
 
-## Horison website that describe the information of social media, and provides guidance to social media marketing.
+## Horison is website that describe the information of media and provides guidance to social media marketing.
 
 
 - My motivation was learning new CSS codes and styling each code for the Horison website.
