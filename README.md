@@ -19,6 +19,6 @@ VS Code
 ## Usage
 ![media](media-magic.png)
 ## Credits
-https://www.youtube.com
+<link> https://www.youtube.com
 ## Features
 CSS
