@@ -1,7 +1,7 @@
-# media-magic
+# Media-Magic
+  Horison is a website that describe the information of media and provides guidance to social media marketing.
 
-## Horison is a website that describe the information of media and provides guidance to social media marketing.
-
+## Description
 
 - My motivation was learning new CSS codes and styling each code for the Horison website.
 - I build this project to gain knowledge of CSS and ulitize my coding skills to gain experience in sementic elements in coding.
@@ -14,11 +14,24 @@
 - [Usage](#usage)
 - [Credits](#credits)
 
+
+
+
 ## Installation
 VS Code
-## Usage
+
+## Links 
+[The URL of the deployed application](https://kathylopez97.github.io/media-magic)
+
+[THE URL of the Github repository](https://github.com/kathylopez97/media-magic)
+
+## Screenshot
 ![media](media-magic.png)
 ## Credits
-<link> https://www.youtube.com
+ https://www.youtube.com
+
+https://www.w3schools.com
+
+
 ## Features
-CSS
+- CSS
